@@ -173,5 +173,3 @@ cython_debug/
 data/
 .data/
 *.csv
-
-*.txt
